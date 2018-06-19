@@ -1,0 +1,23 @@
+Day Stop App
+
+An organizational app to track and organize all your daily activities!! Add your todos to the todo app, add your activities to the interactive map 
+app, so you will never miss a single event! 
+
+Usage notes
+----------------------------------------
+Open index.html in a browser.
+Choose an activity, pick a time. The marker will be displayed to your map at the location you want. 
+
+Open index1.html in a browser.
+Add a todo, track your todos. Delete or Hide your todos.
+
+Notes
+----------------------------------------
+This program does not require installation. 
+This program requires a browser 
+----------------------------------------
+
+Author
+E-mail: 851489@pdsb.net
+
+Copyright 2018 Jaskaran Singh. All rights reserved.
